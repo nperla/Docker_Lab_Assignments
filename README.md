@@ -1,0 +1,1 @@
+hroughout all three labs, you will deploy ShopWave — a multi-tier e-commerce platform consisting of a React frontend, Node.js/Express backend API, and PostgreSQL database — progressing from basic containerization all the way to a fully production-ready Azure AKS deployment with CI/CD pipelines.
